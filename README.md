@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @pallavi0113
-- 👀 I’m interested in c++,java,python,DSA
-- 🌱 I’m currently learning DSA with java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Pallavi Kumari 👋
 
-<!---
-pallavi0113/pallavi0113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MCA graduate (2026) based in Bengaluru and aspiring Java Backend Developer.
+
+I am currently working as a Business Development Associate in EdTech while building my technical skills in Java, SQL, Spring Boot, REST APIs, and Git.
+
+## Technical Skills
+- Java
+- SQL and MySQL
+- Spring Boot (learning)
+- REST APIs (learning)
+- Git and GitHub
+- Python (basic)
+
+## Current Focus
+- Building Java Spring Boot backend projects
+- Strengthening SQL and Core Java
+- Practicing DSA using Java
+- Improving technical communication
+
+## Projects
+- Going On: Airbnb Project— Java, Spring Boot, MySQL
+
+## Contact
+- LinkedIn: [Add your LinkedIn URL]
+- Email: [Add a professional email address]
