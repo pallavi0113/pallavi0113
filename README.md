@@ -2,7 +2,7 @@
 
 MCA graduate (2026) based in Bengaluru and aspiring Java Backend Developer.
 
-I am currently working as a Business Development Associate in EdTech while building my technical skills in Java, SQL, Spring Boot, REST APIs, and Git.
+I am currently building my technical skills in Java, SQL, Spring Boot, REST APIs, and Git.
 
 ## Technical Skills
 - Java
@@ -22,5 +22,5 @@ I am currently working as a Business Development Associate in EdTech while build
 - Going On: Airbnb Project— Java, Spring Boot, MySQL
 
 ## Contact
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add a professional email address]
+- LinkedIn: https://www.linkedin.com/in/1pallavi-kumari/
+- Email: paalavikr028@gmail.com
